@@ -26,5 +26,5 @@ A simple, elegant swimlane-style task organizer built as a productivity tool rep
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/swimlane-board.git
+git clone https://github.com/ElvenVergara/swimlane-project.git
 cd swimlane-board
